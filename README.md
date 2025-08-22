@@ -32,8 +32,8 @@ It visualizes weather conditions, air quality, sunrise/sunset timings, and rain 
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/yourusername/Weather-Forecast-Dashboard.git
-cd Weather-Forecast-Dashboard
+git clone https://github.com/ajantaGhost/PowerBI_Weather_Dashboard.git
+cd Weather_Forecast_Dashboard
 ```
 
 ### 2️⃣ Get API Key  
